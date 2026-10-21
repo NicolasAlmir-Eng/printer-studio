@@ -1,7 +1,7 @@
 
 Printer Studio Pro (Linux Edition)
 
-O Printer Studio é uma interface gráfica avançada desenvolvida em Python (Tkinter) pensada para preencher a lacuna de bons softwares de gerenciamento de impressoras e scanners no ecossistema Linux (Ubuntu/Debian). O aplicativo consolida ferramentas de impressão fotográfica, digitalização assistida e manutenção de hardware em uma única UI limpa e inspirada no macOS.
+O Printer Studio é uma interface gráfica avançada desenvolvida em Python (Tkinter) pensada para preencher a lacuna de bons softwares de gerenciamento de impressoras e scanners no ecossistema Linux (Ubuntu/Debian). O aplicativo consolida ferramentas de impressão fotográfica, digitalização assistida e manutenção de hardware em uma única UI limpa.
 
 Principais Integrações e Dependências do Sistema
 
